@@ -438,10 +438,13 @@ button:hover {
         height: 12vw;
     }
 
+    footer {
+    background-color: #ebebeb;
+    padding: 0;
+}
+
     footer .footer-section {
-        width: 90%;
         background-color: #ffffff;
-        padding: 20px;
         margin: auto;
     }
 
