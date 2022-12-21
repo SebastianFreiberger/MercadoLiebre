@@ -223,6 +223,7 @@ main section article div.titulo-prod{
 footer {
     background-color: #ebebeb;
     padding: 0 20px;
+    height: 30%;
 }
 
 footer .footer-section{
@@ -317,7 +318,8 @@ button a{
 /* LOGGIN */
 
 .main-loggin {
-    background-color: #ffffff;
+    background-color: #ebebeb;
+    padding: 20px;
 }
 
 .titulo-bienvenida-loggin p{
@@ -329,9 +331,10 @@ button a{
 }
 
 form.formulario-loggin {
-    padding: 20px;
+    /* padding: 20px; */
     margin-bottom: 20px;
     line-height: 25px;
+    background-color: #ffffff;
 }
 
 form div input.input-user-loggin {
