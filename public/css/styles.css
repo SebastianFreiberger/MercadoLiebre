@@ -237,6 +237,7 @@ footer div {
 }
 
 div i.ifooter{
+    margin-bottom: 10px;
     color: #1259c3;
     font-size: 2em;
 }
